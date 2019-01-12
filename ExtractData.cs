@@ -1,4 +1,6 @@
-// Copied from https://stackoverflow.com/questions/45953778/how-to-use-powershell-to-extract-data-from-dll-or-exe-files
+// Copied from
+// https://stackoverflow.com/questions/45953778/how-to-use-powershell-to-extract-data-from-dll-or-exe-files
+// and added Main()
 using System;
 using System.Runtime.InteropServices;
 using System.Text;
