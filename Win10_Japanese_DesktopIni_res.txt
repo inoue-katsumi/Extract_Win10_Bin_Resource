@@ -1,0 +1,147 @@
+= = /mnt/c/Users/Default/AppData/Local/Microsoft/Windows/WinX/Group1/desktop.ini = =
+= = /mnt/c/Users/Default/AppData/Local/Microsoft/Windows/WinX/Group2/desktop.ini = =
+コントロール パネル
+エクスプローラー
+検索
+ファイル名を指定して実行
+= = /mnt/c/Users/Default/AppData/Local/Microsoft/Windows/WinX/Group3/desktop.ini = =
+プログラムと機能
+Windows モビリティ センター
+電源オプション
+イベント ビューアー
+システム
+デバイス マネージャー
+ネットワーク接続
+コンピューターの管理
+コマンド プロンプト
+コマンド プロンプト
+= = /mnt/c/Users/Default/AppData/Roaming/Microsoft/Internet Explorer/Quick Launch/desktop.ini = =
+ウィンドウを切り替える
+デスクトップの表示
+= = /mnt/c/Users/Default/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Accessibility/desktop.ini = =
+Windows 簡単操作
+スクリーン キーボード
+ナレーター
+拡大鏡
+= = /mnt/c/Users/Default/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/desktop.ini = =
+= = /mnt/c/Users/Default/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Windows PowerShell/desktop.ini = =
+= = /mnt/c/Users/desktop.ini = =
+ユーザー
+= = /mnt/c/Users/kinoue/3D Objects/desktop.ini = =
+3D オブジェクト
+
+= = /mnt/c/Users/kinoue/AppData/Local/Microsoft/Windows/Application Shortcuts/desktop.ini = =
+アプリケーションのショートカット
+= = /mnt/c/Users/kinoue/AppData/Local/Microsoft/Windows/Burn/Burn/desktop.ini = =
+一時書き込みフォルダー
+= = /mnt/c/Users/kinoue/AppData/Local/Microsoft/Windows/History/desktop.ini = =
+= = /mnt/c/Users/kinoue/AppData/Local/Microsoft/Windows/WinX/Group1/desktop.ini = =
+= = /mnt/c/Users/kinoue/AppData/Local/Microsoft/Windows/WinX/Group2/desktop.ini = =
+ファイル名を指定して実行
+コントロール パネル
+エクスプローラー
+検索
+= = /mnt/c/Users/kinoue/AppData/Local/Microsoft/Windows/WinX/Group3/desktop.ini = =
+コマンド プロンプト
+ネットワーク接続
+電源オプション
+イベント ビューアー
+Windows モビリティ センター
+システム
+プログラムと機能
+コンピューターの管理
+デバイス マネージャー
+コマンド プロンプト
+= = /mnt/c/Users/kinoue/AppData/Roaming/Microsoft/Internet Explorer/Quick Launch/desktop.ini = =
+ウィンドウを切り替える
+デスクトップの表示
+= = /mnt/c/Users/kinoue/AppData/Roaming/Microsoft/Windows/AccountPictures/desktop.ini = =
+= = /mnt/c/Users/kinoue/AppData/Roaming/Microsoft/Windows/Libraries/desktop.ini = =
+ビデオ
+ドキュメント
+ピクチャ
+ミュージック
+カメラ ロール
+保存済みの写真
+= = /mnt/c/Users/kinoue/AppData/Roaming/Microsoft/Windows/Recent/desktop.ini = =
+最近使った項目
+
+= = /mnt/c/Users/kinoue/AppData/Roaming/Microsoft/Windows/Start Menu/desktop.ini = =
+スタート メニュー
+= = /mnt/c/Users/kinoue/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Administrative Tools/desktop.ini = =
+Windows 管理ツール
+= = /mnt/c/Users/kinoue/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/desktop.ini = =
+プログラム
+= = /mnt/c/Users/kinoue/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Startup/desktop.ini = =
+スタートアップ
+= = /mnt/c/Users/kinoue/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Windows PowerShell/desktop.ini = =
+= = /mnt/c/Users/kinoue/Contacts/desktop.ini = =
+
+= = /mnt/c/Users/kinoue/Desktop/desktop.ini = =
+デスクトップ
+
+= = /mnt/c/Users/kinoue/Documents/desktop.ini = =
+ドキュメント
+
+= = /mnt/c/Users/kinoue/Downloads/desktop.ini = =
+ダウンロード
+
+= = /mnt/c/Users/kinoue/Favorites/desktop.ini = =
+お気に入り
+
+= = /mnt/c/Users/kinoue/Favorites/Links/desktop.ini = =
+= = /mnt/c/Users/kinoue/Links/desktop.ini = =
+リンク
+
+= = /mnt/c/Users/kinoue/Music/desktop.ini = =
+ミュージック
+音楽およびそのほかのオーディオ ファイルが含まれます。
+
+= = /mnt/c/Users/kinoue/OneDrive/desktop.ini = =
+= = /mnt/c/Users/kinoue/Pictures/Camera Roll/desktop.ini = =
+カメラ ロール
+= = /mnt/c/Users/kinoue/Pictures/desktop.ini = =
+ピクチャ
+デジタル写真、イメージ、および画像ファイルが含まれます。
+
+= = /mnt/c/Users/kinoue/Pictures/Saved Pictures/desktop.ini = =
+保存済みの写真
+= = /mnt/c/Users/kinoue/Pictures/Screenshots/desktop.ini = =
+スクリーンショット
+= = /mnt/c/Users/kinoue/Saved Games/desktop.ini = =
+保存したゲーム
+
+= = /mnt/c/Users/kinoue/Searches/desktop.ini = =
+検索
+
+= = /mnt/c/Users/kinoue/Videos/Captures/desktop.ini = =
+キャプチャ
+= = /mnt/c/Users/kinoue/Videos/desktop.ini = =
+ビデオ
+ムービーおよびそのほかのビデオ ファイルが含まれます。
+
+= = /mnt/c/Users/Public/AccountPictures/desktop.ini = =
+= = /mnt/c/Users/Public/Desktop/desktop.ini = =
+パブリック デスクトップ
+= = /mnt/c/Users/Public/desktop.ini = =
+パブリック
+= = /mnt/c/Users/Public/Documents/desktop.ini = =
+パブリックのドキュメント
+
+= = /mnt/c/Users/Public/Downloads/desktop.ini = =
+パブリックのダウンロード
+= = /mnt/c/Users/Public/Libraries/desktop.ini = =
+ライブラリ
+録画一覧
+= = /mnt/c/Users/Public/Music/desktop.ini = =
+パブリックのミュージック
+音楽およびそのほかのオーディオ ファイルが含まれます。
+
+= = /mnt/c/Users/Public/Pictures/desktop.ini = =
+パブリックのピクチャ
+デジタル写真、イメージ、および画像ファイルが含まれます。
+
+= = /mnt/c/Users/Public/Videos/desktop.ini = =
+パブリックのビデオ
+ムービーおよびそのほかのビデオ ファイルが含まれます。
+
