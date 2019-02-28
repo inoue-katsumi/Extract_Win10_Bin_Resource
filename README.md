@@ -16,7 +16,7 @@ Scans desktop.ini file recursively and find strings in DLLs.
 
 ## ExtractData.cs:
 
-Created from https://stackoverflow.com/questions/45953778/how-to-use-powershell-to-extract-data-from-dll-or-exe-files\
+Created from https://stackoverflow.com/questions/45953778/how-to-use-powershell-to-extract-data-from-dll-or-exe-files \
 See my blog above.
 
 ## Win10_Japanese_DesktopIni_res.txt:
